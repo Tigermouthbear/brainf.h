@@ -1,5 +1,5 @@
 // a simple interpreter for brainf*ck using brainf.h
-#include "../brainf.h"
+#include "brainf.h"
 #include <unistd.h>
 #include <ctype.h>
 
